@@ -22,7 +22,7 @@ The application allows field technicians to complete digital safety checklists, 
 
 **Technologies:** Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS and jsPDF.
 
-### 🦩 Flamingo Explorer — VR Exploration Game
+### 🦩 [Flamingo Explorer — Children's Exploration Game](https://github.com/jromcarm/juego-flamencos)
 
 A personal project exploring the development of a child-friendly exploration game inspired by location-based discovery games such as Pokémon GO.
 
